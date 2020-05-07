@@ -2,3 +2,8 @@
 	path = ALL
 	url = git@github.com:OCA-MUK/ALL.git
 	branch = master
+
+[submodule "RL-OtherApps/All-Other"]
+	path = RL-OtherApps/All-Other
+	url = git@github.com:RL-OtherApps/All-Other.git
+	branch = 1
