@@ -7,3 +7,8 @@
 	path = RL-OtherApps/All-Other
 	url = git@github.com:RL-OtherApps/All-Other.git
 	branch = 1
+
+[submodule "2"]
+	path = 2
+	url = git@github.com:RL-OtherApps/All-Other.git
+	branch = 2
