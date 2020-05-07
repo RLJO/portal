@@ -12,3 +12,8 @@
 	path = 2
 	url = git@github.com:RL-OtherApps/All-Other.git
 	branch = 2
+
+[submodule "3"]
+	path = 3
+	url = git@github.com:RL-OtherApps/All-Other.git
+	branch = 3
