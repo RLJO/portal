@@ -1,0 +1,4 @@
+[submodule "ALL"]
+	path = ALL
+	url = git@github.com:OCA-MUK/ALL.git
+	branch = master
